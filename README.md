@@ -1,6 +1,7 @@
 # 🛒 Laptop Orders Management Agent
 
-An **Agentic chatbot** built using **LangChain**, **Groq Inference Engine (Llama3-70B)**, and **LangGraph**, that manages laptop product orders by interacting with structured tools.  
+An **Agentic chatbot** built using **LangChain**, **Groq Inference Engine (Llama3-70B)**, and **LangGraph**, that manages laptop product orders by interacting with structured tools. 
+
 The agent can retrieve and update laptop order information from a CSV database, handle greetings, and small talk professionally.
 
 ---
